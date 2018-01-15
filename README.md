@@ -8,7 +8,9 @@ Use:
 python mot.py -r W705ACC
 ```
 
-
+Todo:
+----
+- [ ] Handle Not MOT/SORN better.
 
 
 IMPORTANT
