@@ -1,7 +1,13 @@
 # mot-checker
+
 UK MOT/TAX checker for UK registered Vehicles
 
-Use:
+This will give you the Road Tax and MOT status of any UK registered vehicle.
+
+
+
+
+How to Use:
 ----
 
 ```
